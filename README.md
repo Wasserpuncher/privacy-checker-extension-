@@ -20,7 +20,7 @@ The Privacy Checker is a browser extension that assesses the security of the cur
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/privacy-checker-extension.git
+   git clone https://github.com/Wasserpuncher/privacy-checker-extension-.git
    cd privacy-checker-extension
 
 Open Chrome and navigate to chrome://extensions/.
